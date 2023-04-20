@@ -23,7 +23,12 @@ Repositorio de apoyo para Taller de Analista de Datos con Python de Escuela de C
  
  ## ☺ Sitio(s) Recomendado(s)
  
-  + X.X ❔[]()
+  + A 🦗[grasshopper](https://learn.grasshopper.app/)
+>Crea tu perfil, ingresando con tu cuenta de Google.
+>Deberás realizar las actividades y al concluir compartir la o las constancias que obtengas.
+
++ B 🐍[Python Online](https://www.online-python.com/)
+>Emulador de Python en linea.
  
  ## 📚 Referencias:
  
