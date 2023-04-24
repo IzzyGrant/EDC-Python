@@ -7,7 +7,7 @@ Repositorio de apoyo para Taller de Analista de Datos con Python de Escuela de C
  
  + 4.2 1️⃣[Números enteros y reales.](https://github.com/IzzyGrant/EDC-Python/blob/main/2.%20N%C3%BAmeros%20enteros%20y%20reales.md)
  
- + 4.4 ❔[]()
+ + 4.3 ➕[Operadores Aritmeticos](https://github.com/IzzyGrant/EDC-Python/blob/main/3.%20Operadores%20aritm%C3%A9ticos.md)
  
  + 4.5 ❔[]()
  
