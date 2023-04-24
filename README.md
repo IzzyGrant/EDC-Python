@@ -31,7 +31,7 @@ Repositorio de apoyo para Taller de Analista de Datos con Python de Escuela de C
 >Emulador de Python en linea.
 
 + C ✨[10 lines of code(Ingles)](https://github.com/qxresearch/qxresearch-event-1)
- > Repositorio con mas de 50 aplicaciones de Python con menos de 10 lineas de codigo
+ > Repositorio con mas de 50 aplicaciones de Python con menos de 10 lineas de codigo.
  
  ## 📚 Referencias:
  
