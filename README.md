@@ -3,9 +3,9 @@ Repositorio de apoyo para Taller de Analista de Datos con Python de Escuela de C
 
 📚 Temas Principales del Taller
 
- + 4.1 📝[Introduccion a Python](https://github.com/IzzyGrant/EDC-Python/blob/main/1.%20Introducci%C3%B3n%20al%20lenguaje%20de%20programaci%C3%B3n%20Python.md)
+ + 4.1 📝Introduccion a Python](https://github.com/IzzyGrant/EDC-Python/blob/main/1.%20Introducci%C3%B3n%20al%20lenguaje%20de%20programaci%C3%B3n%20Python.md)
  
- + 4.2 ❔[Números enteros y reales.](https://github.com/IzzyGrant/EDC-Python/blob/main/2.%20N%C3%BAmeros%20enteros%20y%20reales.md)
+ + 4.2 1️⃣[Números enteros y reales.](https://github.com/IzzyGrant/EDC-Python/blob/main/2.%20N%C3%BAmeros%20enteros%20y%20reales.md)
  
  + 4.4 ❔[]()
  
@@ -29,6 +29,9 @@ Repositorio de apoyo para Taller de Analista de Datos con Python de Escuela de C
 
 + B 🐍[Python Online](https://www.online-python.com/)
 >Emulador de Python en linea.
+
++ C ✨[10 lines of code(Ingles)](https://github.com/qxresearch/qxresearch-event-1)
+ > Repositorio con mas de 50 aplicaciones de Python con menos de 10 lineas de codigo
  
  ## 📚 Referencias:
  
