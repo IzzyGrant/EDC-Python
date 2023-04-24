@@ -33,6 +33,9 @@ Repositorio de apoyo para Taller de Analista de Datos con Python de Escuela de C
 + C ✨[10 lines of code(Ingles)](https://github.com/qxresearch/qxresearch-event-1)
  > Repositorio con mas de 50 aplicaciones de Python con menos de 10 lineas de codigo.
  
++ D 📒[El Libro de Python](https://ellibrodepython.com/)
+> El Libro De Python, un espacio en el que podrás aprender y consultar dudas acerca del lenguaje de programación Python. Nuestro libro es totalmente gratis y abierto, por lo que te invitamos a colaborar con nosotros a través de GitHub.
+ 
  ## 📚 Referencias:
  
  + 📕 [El tutorial de Python — documentación de Python - 3.10.2. (2022). Python.](https://docs.python.org/es/3/tutorial/index.html)
