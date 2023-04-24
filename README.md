@@ -9,7 +9,7 @@ Repositorio de apoyo para Taller de Analista de Datos con Python de Escuela de C
  
  + 4.3 ➕[Operadores Aritmeticos](https://github.com/IzzyGrant/EDC-Python/blob/main/3.%20Operadores%20aritm%C3%A9ticos.md)
  
- + 4.4 ✔[Boleanos](https://github.com/IzzyGrant/EDC-Python/blob/main/4.%20Boleanos.md)
+ + 4.4 ✔[Operadores Relacionales](https://github.com/IzzyGrant/EDC-Python/blob/main/4.%20Operadores%20Relacionales.md)
  
  + 4.5 🆎[Operadores Lógicos](https://github.com/IzzyGrant/EDC-Python/blob/main/5.%20Operadores%20L%C3%B3gicos.md)
  
